@@ -7,3 +7,5 @@ my purpose is to learn
 ## Deployment
 hello deploiment
 ## how to contribute
+### Copyright
+2023 git training
