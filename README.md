@@ -7,5 +7,6 @@ my purpose is to learn
 ## Deployment
 hello deploiment
 ## how to contribute
+please fork this repository an then issue pull request for review
 ### Copyright
 2023 git training
